@@ -1,7 +1,7 @@
 # Zak Kysar
 
-Boston, MA · Data pipelining at [ICE](https://www.ice.com) · after hours, building
-autonomous agents that keep working when nobody is watching.
+Boston, MA · Data pipelining at [ICE](https://www.ice.com) · building
+[ayoai](https://ayoai.com) — autonomous agents that keep working when nobody is watching.
 
 The through-line across everything below: **an agent should set its own goals,
 predict what will happen, and be measurably wrong less often over time.** Not a
@@ -29,10 +29,10 @@ vendor-agnostic, API-first agentic coding tool.
 
 | | |
 |---|---|
-| [ayoai.com](https://ayoai.com) | Autonomous agents for stochastic, multi-agent environments — Roblox NPCs and ARC-AGI-3, one brain, two domains |
+| [ayoai.com](https://ayoai.com) | The intelligence engine for persistent agents — one engine streaming cognition into game worlds, ARC-AGI-3, and file-based computer worlds |
 | [lodestar.wiki](https://lodestar.wiki) | A public knowledge commons — the memory layer the agents write into |
-| [vinheim.com](https://vinheim.com) | Sibling web app on the same account platform |
-| [zacharykysar.com](https://www.zacharykysar.com) | Zak Data Solutions — SDVOSB data consultancy |
+| [vinheim.com](https://vinheim.com) | Create a persistent agent in minutes and watch it learn — the consumer door |
+| [zacharykysar.com](https://www.zacharykysar.com) | Zak Data Solutions — certified SDVOSB data consultancy |
 
 ## Also public
 
